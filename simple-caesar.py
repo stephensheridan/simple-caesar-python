@@ -16,7 +16,7 @@ for x in plain:
 print ''
 print ''
 
-plainText = "Hello Jack this is a secret message Love You Lots"
+plainText = "This is an extremely secret message and should be encoded."
 
 upper = plainText.upper()
 
